@@ -14,7 +14,7 @@ bert4keras==0.10.9</br>
 ├── chinese_embedding    存放词向量模型</br>
 ├── data    存放数据</br>
 ├── save    存放训练好的模型</br>
-├── bert_embed.py bert  转化成静态词向量</br>
+├── bert_embed.py    bert转化成静态词向量</br>
 ├── el.py    训练代码(未知实体)</br>
 ├── el_change.py    训练代码(已知实体)</br>
 # 数据集
